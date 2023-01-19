@@ -1,0 +1,3 @@
+1 Добавить git add .
+2 Комми: git comit-m "название"
+3 Загрузка git push -u origin master
